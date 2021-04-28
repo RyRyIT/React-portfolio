@@ -1,0 +1,17 @@
+.navbar-light .navbar-brand {
+    background-color: teal;
+    color: white;
+    font-weight: bold;
+    border-bottom: teal;
+    border-radius: teal;
+  } 
+  h1 {
+    color: teal;
+    margin-left: 20px;
+  }
+  hr {
+    border-top: 1px solid teal;
+  }
+  card-header {
+    text-decoration: turquoise;
+  }
